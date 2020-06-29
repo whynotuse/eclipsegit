@@ -54,6 +54,7 @@ import java.util.function.Supplier;
  */
 public class MultiCllection {
 	public static void main(String[] args) {
+		sysout
 //		arraylist();
 //		vector();
 //		hashSet();
