@@ -1,5 +1,5 @@
 package com.chanpter2.API;
-//hello word
+//hello world
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
