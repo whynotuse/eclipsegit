@@ -13,7 +13,6 @@ import java.util.TreeSet;
 import java.util.Vector;
 import java.util.function.Function;
 import java.util.function.Supplier;
-//abcdefgjhj
 /**
  * collection接口 单列表集合
  * 子接口：
@@ -54,7 +53,6 @@ import java.util.function.Supplier;
  */
 public class MultiCllection {
 	public static void main(String[] args) {
-		sysout
 //		arraylist();
 //		vector();
 //		hashSet();
