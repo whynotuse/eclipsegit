@@ -1,5 +1,7 @@
 package com.chanpter2.API;
-
+/**
+ * lambda±Ì¥Ô Ω
+ */
 import java.util.Arrays;
 import java.util.Comparator;
 
