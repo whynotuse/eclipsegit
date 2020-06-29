@@ -1,5 +1,5 @@
 package com.chanpter2.API;
-//hello world
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
@@ -13,7 +13,7 @@ import java.util.TreeSet;
 import java.util.Vector;
 import java.util.function.Function;
 import java.util.function.Supplier;
-//abc
+//abcdefg
 /**
  * collection接口 单列表集合
  * 子接口：
