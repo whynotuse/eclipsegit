@@ -9,11 +9,10 @@ import java.util.Base64.Encoder;
 
 /**
  * MD5 信息摘要算法  不可逆
- * 
  *@version:
  *@Description: 
  *@author :衡晶
- *@date:2019年9月24日 下午7:21:11
+ *@date:2020年6月29日 下午3:12:06
  */
 public class MD5Test {
 	public static void main(String[] args) {
