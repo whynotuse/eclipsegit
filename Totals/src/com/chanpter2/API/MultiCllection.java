@@ -12,6 +12,7 @@ import java.util.Set;
 import java.util.TreeSet;
 import java.util.Vector;
 import java.util.function.Function;
+//aaa
 import java.util.function.Supplier;
 /**
  * collection接口 单列表集合
